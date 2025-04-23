@@ -53,3 +53,51 @@ Example:
 4. Parallel: Agents working on different work streams independently
 5. Async: Agents execute tasks independently and asynchronously
    - Real-time monitoring, self-healing systems gain a lot from this
+
+### 3. Resources
+
+[n8n](https://n8n.io/)
+[n8n GitHub](https://github.com/n8n-io/n8n)
+
+- "For every SaaS company, there will be a corresponding AI agent company"
+
+### 4. How to Build them
+
+Example:
+
+- 1. Content creation
+  - Social media
+  - Newsletter
+  - Youtube Scripts
+    If you just hired someone to take care of content creation, without onboarding, you would have lame content. The same is with AI. It needs ideas and instructions
+
+#### 4.1 Fine-Tuned AI Model
+
+- Show a bunch of examples of what the output should look like
+- Specialize your AI by training it on specific data
+- Dataset: 20 - 50 examples
+
+  - Reverse engineer the post
+
+- Access Open AI API > dashboard > Fine-tuning
+- All this trained AI data should be uploaded as `.jsonl`
+- The AI should sound like you and say things that you'd say
+
+#### 4.2 Brand brief
+
+- Provide clear, writing guidelines describing your brand
+- Think about your personal brand
+- Key themes, vision, mission, statement, objectives, target audience, unique value propositions, tone of voice
+
+#### 4.3 Building a team of AI agents
+
+Team of agents
+
+- 1. Idea generator
+- 2. Content writer
+- 3. Editor/refiner
+
+##### n8n
+
+- n8n can be installed and run locally, so you can generate the content totally free of charge
+- You can also self-host it

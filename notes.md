@@ -101,3 +101,17 @@ Team of agents
 
 - n8n can be installed and run locally, so you can generate the content totally free of charge
 - You can also self-host it
+- Once it's done, you add the credentials for the apps you need
+- search for n8n image on docker, download it, and run the image
+
+##### LM
+
+- Allows to run Llama, DeepSeek, Mistral on your computer
+- LM also runs an API on the background, which we can use instead of the OpenAI one
+- On sidebar, go to `developer`, and run the server: `http://localhost:1234/v1/models`
+
+### 5. Videos
+
+- [x] [build AI agents team](https://www.youtube.com/watch?v=Hm0DZtiKUI8)
+- [x] [n8n docker installation](https://www.youtube.com/watch?v=EHfY748TD2E)
+- [x] [ FREE LLM Setup in n8n – No OpenAI, No Tokens](https://www.youtube.com/watch?v=5vX_YwME8TM)
